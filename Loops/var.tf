@@ -14,3 +14,7 @@ variable "domain_name" {
 
 
 
+varible "fruits" {
+    type = list
+    default = ["apple", "banana", "grapes", "orange", "mango"]
+}
